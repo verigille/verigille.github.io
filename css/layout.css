@@ -1,7 +1,7 @@
 .version.layout /* version checker */
 {
-	color: #000009;
-	background-color: #2A0DB6;
+	color: #0000E9;
+	background-color: #4F70A9;
 }
 
 .html
@@ -110,7 +110,7 @@
 	-ms-transform: matrix(0,-1,1,0,44,158);
 	transform: matrix(0,-1,1,0,44,158);
 	left: -44px;
-	margin-top: 181px;
+	margin-top: 180px;
 	margin-bottom: 44px;
 	position: relative;
 }
@@ -252,14 +252,14 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
 #pu222-4,#ppu209
 {
 	width: 0.01px;
-	margin-top: 139px;
+	margin-top: 138px;
 }
 
 #u209
@@ -335,7 +335,7 @@
 	margin-top: 90px;
 }
 
-#u403-6
+#u409-6
 {
 	z-index: 66;
 	width: 114px;

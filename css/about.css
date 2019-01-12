@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000009;
-	background-color: #0CA6F5;
+	color: #000005;
+	background-color: #886F27;
 }
 
 .html
@@ -108,11 +108,11 @@
 	width: 248px;
 	min-height: 80px;
 	background-color: transparent;
-	line-height: 12px;
-	font-size: 10px;
+	line-height: 14px;
+	font-size: 12px;
 	text-align: left;
 	font-family: Times, Times New Roman, Georgia, serif;
-	margin-top: 30px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -140,11 +140,11 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
-#u405-6
+#u411-6
 {
 	z-index: 28;
 	width: 114px;
@@ -154,7 +154,7 @@
 	font-size: 9px;
 	text-align: right;
 	letter-spacing: 2px;
-	margin-top: 552px;
+	margin-top: 551px;
 	position: relative;
 }
 

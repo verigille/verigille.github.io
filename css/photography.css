@@ -1,7 +1,7 @@
 .version.photography /* version checker */
 {
-	color: #0000E4;
-	background-color: #FA807E;
+	color: #0000EB;
+	background-color: #C38DD9;
 }
 
 .html
@@ -112,7 +112,7 @@
 	z-index: 56;
 	width: 444px;
 	background-color: transparent;
-	margin-top: 80px;
+	margin-top: 79px;
 	position: relative;
 }
 
@@ -225,14 +225,14 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
 #pu222-4,#ppu209
 {
 	width: 0.01px;
-	margin-top: 139px;
+	margin-top: 138px;
 }
 
 #u209
@@ -308,7 +308,7 @@
 	margin-top: 90px;
 }
 
-#u401-6
+#u408-6
 {
 	z-index: 60;
 	width: 114px;

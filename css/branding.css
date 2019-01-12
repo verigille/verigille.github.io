@@ -1,7 +1,7 @@
 .version.branding /* version checker */
 {
-	color: #0000EA;
-	background-color: #68EA84;
+	color: #000019;
+	background-color: #2F1D6A;
 }
 
 .html
@@ -122,7 +122,7 @@
 	z-index: 58;
 	width: 382px;
 	background-color: transparent;
-	margin-top: 138px;
+	margin-top: 137px;
 	position: relative;
 }
 
@@ -249,14 +249,14 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
 #pu222-4,#ppu209
 {
 	width: 0.01px;
-	margin-top: 139px;
+	margin-top: 138px;
 }
 
 #u209
@@ -332,7 +332,7 @@
 	margin-top: 90px;
 }
 
-#u404-6
+#u410-6
 {
 	z-index: 64;
 	width: 114px;

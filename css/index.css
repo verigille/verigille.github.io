@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #A8389E;
+	color: #0000E6;
+	background-color: #D05525;
 }
 
 .html
@@ -93,7 +93,7 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
@@ -107,7 +107,7 @@
 	font-size: 9px;
 	text-align: right;
 	letter-spacing: 2px;
-	margin-top: 464px;
+	margin-top: 463px;
 	position: relative;
 }
 

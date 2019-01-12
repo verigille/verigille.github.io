@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F8;
-	background-color: #03FC24;
+	color: #0000F5;
+	background-color: #3E9006;
 }
 
 .html
@@ -178,14 +178,14 @@
 
 #u152_states,#u154_states,#u155_states,#u156_states
 {
-	height: 19px;
+	height: 20px;
 	width: 114px;
 }
 
 #pu222-4,#ppu209
 {
 	width: 0.01px;
-	margin-top: 139px;
+	margin-top: 138px;
 }
 
 #u209
@@ -261,7 +261,7 @@
 	margin-top: 90px;
 }
 
-#u406-6
+#u407-6
 {
 	z-index: 56;
 	width: 114px;
@@ -271,7 +271,7 @@
 	font-size: 9px;
 	text-align: right;
 	letter-spacing: 2px;
-	margin-top: 176px;
+	margin-top: 88px;
 	position: relative;
 }
 
