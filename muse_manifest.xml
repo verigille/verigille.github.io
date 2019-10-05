@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="verigille.github.io" resolutions="1x" timestamp="1547303881328">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="3959294180" ref="layout:portfolio:photography:branding:illustration"/>
+    <file name="master_a-master.css" crc="4175366339" ref="layout:about:portfolio:index:photography:branding:illustration:contact"/>
+    <file name="layout.css" crc="3914297513" ref="layout"/>
+    <file name="about.css" crc="92827431" ref="about"/>
+    <file name="portfolio.css" crc="4114518022" ref="portfolio"/>
+    <file name="index.css" crc="3872412965" ref="index"/>
+    <file name="photography.css" crc="3955461593" ref="photography"/>
+    <file name="branding.css" crc="422518122" ref="branding"/>
+    <file name="illustration.css" crc="3842060813" ref="illustration"/>
+    <file name="contact.css" crc="4030393890" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="museutils.js" crc="334180058" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+  </folder>
+  <folder name="images">
+    <file name="verigille_shapemotion_3.png" crc="24701063" seo="true" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="verigille_shapemotion_2.png" crc="4078408248" seo="true" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u152_states.png" crc="4032383348" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u152_states-r.png" crc="258867809" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u152_states-a.png" crc="358732024" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u154_states.png" crc="3988171228" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u154_states-r.png" crc="3773788014" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u154_states-a.png" crc="4258848859" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u155_states.png" crc="4201655411" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u155_states-r.png" crc="3972291070" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u155_states-a.png" crc="354261009" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u156_states.png" crc="155776142" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u156_states-r.png" crc="3969654411" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u156_states-a.png" crc="4048332704" ref="index:portfolio:about:contact:layout:illustration:photography:branding"/>
+    <file name="u222-4.png" crc="309334459" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u176_states.png" crc="4009874575" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u176_states-m.png" crc="4009874575" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u220-4.png" crc="203840674" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u179-4.png" crc="244060030" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u209.png" crc="305618107" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u209-r.png" crc="305618107" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u177-4.png" crc="4052951609" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u218.png" crc="115126013" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u218-r.png" crc="115126013" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u218-m.png" crc="115126013" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="u178-4.png" crc="3762504342" ref="portfolio:layout:illustration:photography:branding"/>
+    <file name="veri_gille_profile.jpg" crc="168465688" seo="true" ref="about"/>
+    <file name="img20171219141605.jpg" crc="35696974" seo="true" ref="layout"/>
+    <file name="img20171219142439.jpg" crc="424098451" seo="true" ref="layout"/>
+    <file name="img20171219142738.jpg" crc="358944754" seo="true" ref="layout"/>
+    <file name="img20171219142827.jpg" crc="113428950" seo="true" ref="layout"/>
+    <file name="img20171219141853.jpg" crc="4217061375" seo="true" ref="layout"/>
+    <file name="verigille_honest2god_1.jpg" crc="424566424" seo="true" ref="illustration"/>
+    <file name="color-practice.jpg" crc="3860897348" seo="true" ref="illustration"/>
+    <file name="guiolotin.jpg" crc="4279230850" seo="true" ref="illustration"/>
+    <file name="tengkorak cinta.jpg" crc="121931235" seo="true" ref="illustration"/>
+    <file name="img_0066.jpg" crc="406338558" seo="true" ref="photography"/>
+    <file name="egil.jpg" crc="482853185" seo="true" ref="photography"/>
+    <file name="img20171219150225.jpg" crc="320925456" seo="true" ref="branding"/>
+    <file name="img20171219151201.jpg" crc="211751760" seo="true" ref="branding"/>
+    <file name="img20171219150239.jpg" crc="410252597" seo="true" ref="branding"/>
+    <file name="img20171219150604.jpg" crc="444395275" seo="true" ref="branding"/>
+  </folder>
+  <file name="index.html" crc="3916523384" seo="true" mt="1539343877090" redirect="true"/>
+  <file name="portfolio.html" crc="3860305987" seo="true" mt="1539343975460" redirect="true"/>
+  <file name="about.html" crc="4189064097" seo="true" mt="1539344282210" redirect="true"/>
+  <file name="contact.html" crc="22964203" seo="true" mt="1539344515268" redirect="true"/>
+  <file name="layout.html" crc="355551548" seo="true" mt="1539344062062" redirect="true"/>
+  <file name="illustration.html" crc="490380568" seo="true" mt="1539344639496" redirect="true"/>
+  <file name="photography.html" crc="4095517823" seo="true" mt="1539344002371" redirect="true"/>
+  <file name="branding.html" crc="3972133771" seo="true" mt="1547303743176" redirect="true"/>
+</manifest>
